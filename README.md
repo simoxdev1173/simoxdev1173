@@ -36,9 +36,9 @@ Editor:         VS Code
 
 Contact
 
-Email:          your@email.com
-GitHub:         github.com/YOUR_GITHUB_USERNAME
-LinkedIn:       linkedin.com/in/your-profile
+Email:          mohammedelattar4work@gmail.com
+GitHub:         github.com/simoxdev1173
+LinkedIn:       linkedin.com/in/elattarmohammed
 
 ──────────────────────────────────────────────────────────
 
