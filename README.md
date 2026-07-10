@@ -90,14 +90,6 @@ Currently Building
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simoxdev1173&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoxdev1173&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=simoxdev1173&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -118,19 +110,13 @@ Currently Building
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/simoxdev1173/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/simoxdev1173/simoxdev1173/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📈 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=simoxdev1173&style=for-the-badge&color=blue"/>
-
-</p>
 
 ---
 
