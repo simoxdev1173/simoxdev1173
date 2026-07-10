@@ -106,15 +106,6 @@ Currently Building
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/simoxdev1173/simoxdev1173/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 
 
