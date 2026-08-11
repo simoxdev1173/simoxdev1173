@@ -86,31 +86,6 @@ Currently Building
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=simoxdev1173&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simoxdev1173&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-
-
-
----
-
 <div align="center">
 
 ### 💡 "Building software that solves real problems."
